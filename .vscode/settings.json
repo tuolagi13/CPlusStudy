@@ -1,0 +1,14 @@
+{
+	"files.associations": {
+		"*.sdl": "cpp",
+		"*.rdl": "cpp",
+		"*.tpl": "mako",
+		"*.tmpl": "mako",
+		"*.csh": "shellscript",
+		".cshrc": "shellscript",
+		"Makefile.*": "makefile",
+		"random": "cpp",
+		"iostream": "cpp",
+		"ostream": "cpp"
+	}
+}
